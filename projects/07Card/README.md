@@ -12,7 +12,7 @@ wokwi: n/a
 
 ---
 
-# HackerCard
+#HackerCard
 
 
 I followed the tutorial to make a hackercard. it should be able to transmit a URL on tap and light up.
